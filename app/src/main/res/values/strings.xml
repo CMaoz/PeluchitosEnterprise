@@ -1,0 +1,36 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Peluchitos.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Agregar Peluche</string>
+    <string name="menu_gallery">Buscar Peluche</string>
+    <string name="menu_slideshow">Eliminar Peluche</string>
+    <string name="menu_tools">Inventario</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="nombre">Nombre: </string>
+    <string name="cantidad">Cantidad: </string>
+    <string name="precio">Precio</string>
+    <string name="agregar">Agregar Peluche</string>
+    <string name="id">Id:</string>
+    <string name="hnombre">Nombre</string>
+    <string name="hid">Id</string>
+    <string name="hcantidad">Cantidad</string>
+    <string name="hprecio">Precio</string>
+    <string name="bagregar">Agregar</string>
+    <string name="buscar">Buscar Peluche</string>
+    <string name="bbuscar">Buscar</string>
+    <string name="parabuscar">Para buscar escriba el id o el nombre del peluchito</string>
+    <string name="eliminar">Eliminar Peluche</string>
+    <string name="beliminar">Eliminar</string>
+    <string name="peluchitosenterprise">Peluchitos Entreprise</string>
+    <string name="correo">peluchitos@peluchitosentreprise.com</string>
+    <string name="paraeliminar">Para eliminar escriba el id o el nombre del peluchito</string>
+    <string name="inventario">Inventario</string>
+    <string name="formato">Id     Nombre     Cantidad     Precio</string>
+</resources>
